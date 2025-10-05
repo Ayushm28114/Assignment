@@ -2,7 +2,6 @@
 
 A modern, responsive home page for an IELTS Institute built with React, Vite, and Tailwind CSS.
 
-![Project Preview](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=600&q=80)
 
 ## 🚀 Quick Start
 
